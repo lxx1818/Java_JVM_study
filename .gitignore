@@ -1,0 +1,9 @@
+##ignore this file##
+
+Java_JVM_study.iml
+
+/.idea/
+
+/out/
+*.xml
+*.class
